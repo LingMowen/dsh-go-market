@@ -1,13 +1,13 @@
 {
   "name": "dsh-magpie-hub",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "title": {
     "zh": "Magpie 供应商中枢",
     "en": "Magpie Hub"
   },
   "summary": {
-    "zh": "在 DSH 进程内直接运行 magpie 的供应商插件：继承已装的插件与已登录账号，把每个供应商注册成一条模型路由。桌面用 magpie 原版界面，手机是原生面板——平台卡片、额度窗口、用量统计、插件商店一键安装，输入框上方还有额度条与每回合消耗脚注。",
-    "en": "Runs magpie's vendor-plugin ecosystem inside DSH: inherits installed plugins and signed-in accounts, and registers every provider as a model route. Desktop uses the original magpie UI; mobile gets a native panel with provider cards, quota windows, usage stats, one-click store installs, plus a quota strip above the composer and a per-turn usage footnote."
+    "zh": "在 DSH 进程内直接运行 magpie 的供应商插件：继承已装的插件与已登录账号，把每个供应商注册成一条模型路由。桌面用 magpie 原版界面；手机是原生面板——四个原生页签、平台卡片、额度窗口、用量统计、插件商店一键安装、每日签到，输入框上方还有额度条与每回合消耗脚注。",
+    "en": "Runs magpie's vendor-plugin ecosystem inside DSH: inherits installed plugins and signed-in accounts, and registers every provider as a model route. Desktop uses the original magpie UI; mobile gets a native panel with four native tabs, provider cards, quota windows, usage stats, one-click store installs, daily check-in, plus a quota strip above the composer and a per-turn usage footnote."
   },
   "category": "tools",
   "screenshots": [],
